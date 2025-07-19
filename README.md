@@ -22,6 +22,9 @@ Key research questions addressed:
 * Developed a robust CLV prediction model achieving a 0.98 R-squared accuracy, significantly enhancing strategic resource allocation and customer retention planning.
 * Created a classification model accurately identifying the top 25% loyal customer base with 98% accuracy, directly contributing to a 17% increase in sales through optimized product assortments and an 11% growth in CLV from targeted marketing efforts.
 
+### Visualizations
+
+  <img src="https://github.com/aShaik003/aShaik003o.github.io/blob/main/g1.png" width="300" height="250"> <img src="https://github.com/aShaik003/aShaik003o.github.io/blob/main/g2.png" width="300" height="250"> <img src="https://github.com/aShaik003/aShaik003o.github.io/blob/main/g3.png" width="300" height="250">
 
 ### Future Directions
 
